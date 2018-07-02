@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
     private Adapter.MoviesAdapter mAdapter;
 
     // input your API key below;
-    public static final String YOUR_API_KEY = "07993ea13c68dcc4645b7f47a93f13d8";
+    public static final String YOUR_API_KEY = "";
 
 
 
