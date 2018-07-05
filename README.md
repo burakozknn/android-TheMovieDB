@@ -7,3 +7,11 @@ width="300" height="500"  />
 
 # android-TheMovieDB
 An implementation of a RecyclerView using Retrofit and Picasso to create a movie list
+
+## Required Tasks
+-Build a UI layout for multiple Activities.
+
+-Launch these Activities via Intent.
+
+-Fetch data from themovieDB API
+
